@@ -1,0 +1,61 @@
+local module = {}
+function module.Owners()
+	return {
+		--Mil ID's
+		11779465,
+		1840756715,
+		2661610082,
+		733618243,
+		4093550100,
+		--Raspberry ID's
+		4093550100,
+		459813669,
+		3901493494,
+	}
+end
+function module.GamepassUsers()
+	return {
+		1439890496, -- hilly
+		--nork
+		1551231467,
+	}
+end
+function module.acwl() -- Anti crash whtielist
+	return {
+		--Mil ID's
+		11779465,
+		1840756715,
+		2661610082,
+		--Raspberry ID's
+		4093550100,
+		459813669,
+	}
+end
+function module.gwl() -- Gun whitelist
+	return {
+		--Mil ID's
+		11779465,
+		1840756715,
+		2661610082,
+		--Raspberry ID's
+		4093550100,
+		459813669,
+		--Orange
+		878232709,
+	}
+end
+function module.pnwl() -- Project N whitelist
+	return {
+		--Mil ID's
+		11779465,
+		1840756715,
+		2661610082,
+		--Raspberry ID's
+		4093550100,
+		459813669,
+		--nork
+		1551231467,
+	}
+end
+
+return module
