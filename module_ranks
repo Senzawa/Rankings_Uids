@@ -1,9 +1,3 @@
-return {
-	Trusted = {1439890496,1551231467},
-	HeadStaff = {878232709,3035702911},
-	Developers = {},
-	Staff = {},
-	Moderators = {3466933720,32001804,32852149},
-	Uploaders = {},
-	Boosters = {}
-}
+return [[
+{"Trusted":[1439890496,1551231467],"Developers":[],"Boosters":[],"Uploaders":[],"Moderators":[3466933720,32001804,32852149],"Staff":[],"HeadStaff":[878232709,3035702911]}
+]]
